@@ -1,0 +1,14 @@
+jpnN設定(圖示的設定 
+   - Map 各個傾聽器回傳不同值 獲得不同Map2 ok
+   - Setting 一個隱藏的panel 有設定 
+   - Rename按鈕
+   - 把MenuBar拿掉 ok
+
+卡牌系統
+   - 4個Vector 手牌 棄牌 牌堆 全部牌
+
+pointer不同傾聽器裡的變化
+
+戰鬥畫面
+
+結束畫面
